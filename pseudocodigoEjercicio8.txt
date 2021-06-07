@@ -1,0 +1,17 @@
+Algoritmo Ejercicio8
+	
+	Hacer
+		
+		Hacer
+			
+			num = Aleatorio(0,999999)
+			
+		Hasta Que num mod 5 == 0
+		
+		Escribir num
+		Escribir "Desea generar otro numero? C (Continuar) S (Salir)"
+		leer Respuesta
+		
+	Hasta Que Respuesta = "S" 
+	
+FinAlgoritmo
